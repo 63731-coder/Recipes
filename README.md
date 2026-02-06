@@ -2,8 +2,6 @@
 
 A native **Android recipe application** developed in **Kotlin**, designed to help users discover, search, and manage recipes easily. The app focuses on a clean mobile experience with **local persistence**, **favorites management**, and **advanced search & filtering**.
 
-This project was developed as part of **Remise 3**, aiming to define and consolidate a personal mobile application idea that is both useful and feasible within a reasonable development timeframe.
-
 ---
 
 ## 📱 Project Overview
