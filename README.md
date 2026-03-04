@@ -1,10 +1,10 @@
-# 🍽️ Recipe App (Kotlin / Android)
+# Recipe App (Kotlin / Android)
 
 A native **Android recipe application** developed in **Kotlin**, designed to help users discover, search, and manage recipes easily. The app focuses on a clean mobile experience with **local persistence**, **favorites management**, and **advanced search & filtering**.
 
 ---
 
-## 📱 Project Overview
+## Project Overview
 
 The Recipe App allows users to:
 
@@ -18,7 +18,7 @@ The application is fully mobile-oriented and does not require an internet connec
 
 ---
 
-## 🧠 Technical Stack
+## Technical Stack
 
 * **Language**: Kotlin
 * **Platform**: Android
@@ -29,7 +29,7 @@ The application is fully mobile-oriented and does not require an internet connec
 
 ---
 
-## 🗄️ Data Persistence
+## Data Persistence
 
 The application uses a **local database** to store:
 
