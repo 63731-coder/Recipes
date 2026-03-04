@@ -6,7 +6,7 @@ A native **Android recipe application** developed in **Kotlin**, designed to hel
 
 ## Project Overview
 
-The Recipe App allows users to:
+The Recipe App allows users to: 
 
 * Browse a collection of recipes
 * Search recipes using a search bar
